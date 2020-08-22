@@ -1,0 +1,11 @@
+	*{margin: 0px;padding: 0px;}
+
+	.box{ width: 600px; height: 500px;
+	margin: 80px auto 0px;background-color: red; background-image:url(../img/images1.jpg);text-align: center;background-size: 100% 100%;    
+
+
+	} 
+	.login img{width: 150px;height: 150px;margin: 40px auto 0px;}
+	 .inpu input{width:300px;height: 20px; margin: 20px auto 0px; border: 1px solid black;border-radius: 5px;padding: 5px;}
+	  h2{margin: 20px auto 0px;color: #ffff;}
+	  .inpu button{width: 100px;height: 30px; background-color: red;}
